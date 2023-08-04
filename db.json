@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 2,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 3,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 4,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 5,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 6,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 7,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },{
+      "id": 8,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 9,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 10,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    },
+    {
+      "id": 11,
+      "image": "image",
+      "name": "iphone",
+      "description": "nice shirts",
+      "gender": "male",
+      "category": "shirts",
+      "price": "1500"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
